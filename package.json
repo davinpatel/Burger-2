@@ -1,0 +1,35 @@
+{
+  "name": "burger-2",
+  "version": "1.0.0",
+  "description": "sequelize burger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davinpatel/Burger-2.git"
+  },
+  "author": "Davin Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davinpatel/Burger-2/issues"
+  },
+  "homepage": "https://github.com/davinpatel/Burger-2#readme",
+  "dependencies": {
+    "basename": "^0.1.2",
+    "body-parser": "^1.17.2",
+    "config": "^1.26.2",
+    "development": "0.0.6",
+    "env": "0.0.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "fs": "0.0.1-security",
+    "method-override": "^2.3.9",
+    "mysql": "^2.14.1",
+    "mysql2": "^1.4.1",
+    "path": "^0.12.7",
+    "sequelize": "^4.5.0"
+  }
+}
